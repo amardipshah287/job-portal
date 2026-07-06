@@ -10,17 +10,17 @@ export function Team() {
         <div className="grid grid-cols-1 md:grid-cols-3">
           {[
             {
-              name: "Jane Doe",
+              name: "Prabesh Kiran Shahi Thukari",
               role: "CEO & Founder",
               image: Jane,
             },
             {
-              name: "John Smith",
+              name: "Amardip Sah",
               role: "CTO",
               image: John,
             },
             {
-              name: "Emily Brown",
+              name: "Bipan Prasad Acharya",
               role: "Head of Customer Success",
               image: Emily,
             },
